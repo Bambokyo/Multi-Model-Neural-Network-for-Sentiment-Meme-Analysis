@@ -2,10 +2,10 @@
 
 Given a meme image, the model predicts the emotion the meme signifies:
 ## Humour:
-hilarious
-not_funny
-very_funny
-funny
+1. hilarious 
+2. not_funny
+3. very_funny
+4. funny
 
 ## Sarcasm:
 general
